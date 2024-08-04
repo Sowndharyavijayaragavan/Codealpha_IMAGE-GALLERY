@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="img.css">
+</head>
+<body>
+    <div class="gallery-container">
+        <div class="gallery">
+            <img id="gallery-image" src="images1.jpg" alt="Gallery Image">
+            
+           
+        </div>
+        <button id="prev-btn" class="nav-btn">Previous</button>
+        <button id="next-btn" class="nav-btn">Next</button>
+    </div>
+    <script src="img.js"></script>
+</body>
+</html>
